@@ -1,2 +1,4 @@
 veracode_static_scan:
   policy: 'Static Medium Plus'
+  profile: 'ASVeraDemo/verademolabs-mitigations'
+  filter_mitigated_flaws: true
